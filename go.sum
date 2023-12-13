@@ -63,6 +63,8 @@ github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ3
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/deydra71/lib-common/modules/common v0.0.0-20231221132238-bb04f7477236 h1:Fo59uOmrnWdVX9WanZofoB2YnmlxDP2wbm7jHGgBIOA=
+github.com/deydra71/lib-common/modules/common v0.0.0-20231221132238-bb04f7477236/go.mod h1:YgWd1xXF9VgsfPIwkCv3Q0j2akpnojs9zgso87tvCXY=
 github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
 github.com/emicklei/go-restful/v3 v3.10.1 h1:rc42Y5YTp7Am7CS630D7JmhRjq4UlEUuEKfrDac4bSQ=
 github.com/emicklei/go-restful/v3 v3.10.1/go.mod h1:6n3XBCmQQb25CM2LCACGz8ukIrRry+4bhvbpWn3mrbc=
@@ -238,8 +240,6 @@ github.com/openstack-k8s-operators/infra-operator/apis v0.3.1-0.20231218083014-f
 github.com/openstack-k8s-operators/infra-operator/apis v0.3.1-0.20231218083014-f777af139aa2/go.mod h1:LRHMkCVHaoyxF3YZeP1T+32qSt+2sNo8ZU1ILYMQBWA=
 github.com/openstack-k8s-operators/keystone-operator/api v0.3.1-0.20231208104910-f8433c1c9399 h1:Te7JSPGGUhkzjig/1CjlPmQgMpHT0+yHWoTxbVJGJ74=
 github.com/openstack-k8s-operators/keystone-operator/api v0.3.1-0.20231208104910-f8433c1c9399/go.mod h1:kDtQ2LCkf28F7xgK8GBFAMPDhXnL6iRb8NztHhrYaO0=
-github.com/openstack-k8s-operators/lib-common/modules/common v0.3.1-0.20231230095328-700482794743 h1:nElSEojlu7JxfpmF5c4zb2F3bjbQigpeiheV6Eus6RI=
-github.com/openstack-k8s-operators/lib-common/modules/common v0.3.1-0.20231230095328-700482794743/go.mod h1:IDd4i2ZXWELCF+Y8Zu9bQBobE6yy3HOEjUeLnSuSWaM=
 github.com/openstack-k8s-operators/lib-common/modules/openstack v0.3.1-0.20231230095328-700482794743 h1:Csah4t609IfGYZ5Ekfprjnmu3PrzaM/z4NXWx/JLKV4=
 github.com/openstack-k8s-operators/lib-common/modules/openstack v0.3.1-0.20231230095328-700482794743/go.mod h1:4nmd2iUcjIAkF5Lw1ow+nsTeT3ifXbooGsjPSKG1+IA=
 github.com/openstack-k8s-operators/lib-common/modules/test v0.3.1-0.20231230095328-700482794743 h1:XT/nipCZzwQJcdegypnxf7UiCeOtOtmT0WgwLpD6qOA=
